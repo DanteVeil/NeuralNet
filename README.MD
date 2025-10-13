@@ -30,12 +30,12 @@ The model was trained for 10 epochs, demonstrating a clear and consistent decrea
 
 [Image of the training loss graph]
 
-*(loss_graph.PNG)*
+![Alt](ProjectResources/example2.PNG)
 
 #### **Prediction Results on Test Data**
 The model's performance on unseen data from the test set. Predictions are labeled, with green indicating a correct classification and red indicating an error.
 
-*(predictions.PNG)*
+![Alt](ProjectResources/exmaple.PNG)
 
 ---
 
