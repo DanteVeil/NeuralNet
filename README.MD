@@ -25,12 +25,8 @@ This project serves as a practical demonstration of end-to-end application devel
 
 The model was trained for 10 epochs, demonstrating a clear and consistent decrease in training loss, which indicates successful learning.
 
-#### **Training Loss Per Epoch**
-
-
-[Image of the training loss graph]
-
 ![Alt](ProjectResources/example2.PNG)
+
 
 #### **Prediction Results on Test Data**
 The model's performance on unseen data from the test set. Predictions are labeled, with green indicating a correct classification and red indicating an error.
@@ -87,4 +83,5 @@ To run this project locally, please follow these steps.
 4.  **Run the main script:**
     ```bash
     python TorchNeuralNet.py
+
     ```
