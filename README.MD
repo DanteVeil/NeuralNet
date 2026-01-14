@@ -48,13 +48,11 @@ The model's performance on unseen data from the test set. Predictions are labele
 
 ## Operational & Systems Insight
 
-While this project is rooted in AI, its execution is highly relevant to an IT Specialist role. The development process required key skills in **systems management** and **technical support**:
 
 * **Hardware & Driver Management:** The training process was accelerated using an NVIDIA GPU, which required the correct setup and management of CUDA drivers and PyTorch environments to ensure hardware compatibility and performance.
 * **Troubleshooting:** The initial model had a channel mismatch error that required systematic debugging and analysis of the data flow through the network layers to resolve. This mirrors the diagnostic process used in IT troubleshooting.
 * **End-to-End Project Management:** This project was managed from conception to completion, demonstrating the ability to handle a full technical lifecycle and deliver a functional, well-documented application.
 
-This experience in building and debugging a complex software system provides a strong foundation for supporting the critical IT infrastructure that powers a global brand like Prada.
 
 ---
 
@@ -85,3 +83,4 @@ To run this project locally, please follow these steps.
     python TorchNeuralNet.py
 
     ```
+
